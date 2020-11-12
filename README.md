@@ -1,4 +1,4 @@
-InspectiveC
+InspectiveC-
 ======
 
 *MobileSubstrate and Fishhook based objc_msgSend hook for debugging/inspection purposes.*
